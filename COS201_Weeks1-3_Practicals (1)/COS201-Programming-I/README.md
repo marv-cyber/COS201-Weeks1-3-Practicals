@@ -1,7 +1,7 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- **Name:** Marvelous kolade
+- **Name:** Marvelous Kolade Bolanle
 - **Matriculation Number:** 25/17017
 - **Programme:** Computer Science
 - **Course:** COS 201 — Computer Programming I
